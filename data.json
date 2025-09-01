@@ -1362,11 +1362,6 @@
     },
     { "code": "1228", "name": "Drugi Urząd Skarbowy Kraków", "city": "Kraków" },
     {
-      "code": "3023",
-      "name": "Pierwszy Urząd Skarbowy w Poznaniu",
-      "city": "Poznań"
-    },
-    {
       "code": "1271",
       "name": "Małopolski Urząd Skarbowy w Krakowie",
       "city": "Kraków"
